@@ -1,0 +1,87 @@
+h1{
+	color: #eb4034;
+	text-align: center;
+}
+
+i{
+	color: #47e5ed;
+	margin: 10px 20px;
+}
+
+audio{
+	margin: 20px 100px;
+	border: dashed red;
+	border-radius: 30% 30% 30% 30%;
+}
+
+audio:hover {
+	border: dashed blue;
+}
+
+h3{
+color: #ed47ea;
+line-height: 2.1;
+margin: 20px 100px;
+}
+
+.kontakt {
+	text-align: center;
+	color: red;
+}
+
+.forma {
+	color: #e4f00c;
+	margin: 25px 25px;
+	padding: 15px;
+}
+
+a{
+	color: #35c465;
+}
+
+a:hover {
+	color: #f7b707;
+}
+
+#text {
+	color: gray;
+}
+
+
+button {
+	background-color: #f0b9ed;
+	color: white;
+	cursor: pointer;
+	padding: 10px 10px;
+}
+
+button:hover {
+	background-color: #b9ecf0;
+}
+
+s {
+	color: red;
+
+}
+#syna {
+	color: blue;
+}
+
+ul {
+	text-align: initial;
+	padding: 20px 15px;
+	margin: 30px;
+}
+
+h5 {
+	text-align: center;
+	color: blue;
+}
+
+u {
+	color: green;
+}
+
+b {
+	color: red;
+}
